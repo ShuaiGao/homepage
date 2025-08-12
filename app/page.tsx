@@ -482,7 +482,7 @@ export default function HomePage() {
                                 rel="noopener noreferrer"
                                 className="hover:text-cyan-400 transition-colors"
                             >
-                                京ICP备18035428号
+                                京ICP备2022034942号-1
                             </a>
                         </div>
                     </div>
